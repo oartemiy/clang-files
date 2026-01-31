@@ -8,7 +8,7 @@ AlignConsecutiveDeclarations: false
 AlignOperands: true
 AlignTrailingComments: false
 AlwaysBreakTemplateDeclarations: Yes
-AllowShortNamespacesOnASingleLine: true
+# AllowShortNamespacesOnASingleLine: true # LLVM >= 20
 BraceWrapping:
   AfterCaseLabel: true
   AfterClass: true
