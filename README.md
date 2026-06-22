@@ -1,4 +1,4 @@
-clang-format and clang-tidy files
+clang-format, clang-tidy and clangd files
 ==================
 
-This configuration uses the .clang-format and .clang-tidy settings, aligned with the *CLion* formatting standard, and also applies the variable naming style from the *HSE SE CPP 2026* course guide.
+This configuration uses the .clang-format, .clang-tidy and clangd settings, aligned with the *Google* formatting standard, and also applies (Depricated) the variable naming style from the *HSE SE CPP 2026* course guide.
